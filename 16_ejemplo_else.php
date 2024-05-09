@@ -2,7 +2,7 @@
 
 <?php
 
-/* calcular el total que una persona debe pagaren una llantera 
+/* calcular el total que una persona debe pagar en una llantera 
 el precio de cada llanta es de $800 si se compran menos de 5 llantas
 y de $700 si se compran 5 o mas
 */
